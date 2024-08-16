@@ -12,7 +12,7 @@ layout: default
 
  * Support for [vertex-centered](https://arxiv.org/abs/2101.08289) and [cell-centered](https://arxiv.org/abs/2406.09139) for spacetime variables;
  * Dynamical spacetime solver based on the [Z4c](https://arxiv.org/abs/0912.2920) formulation of 3+1 general relativity and high-order operators;
- * GRMHD solver on dynamical spacetimes, based on the Valencia formulation and Athena++ constrained transport algorithm;
+ * GRMHD solver on dynamical spacetimes based on the conservative 3+1 Eulerian "Valencia" formulation and Athena++ constrained transport algorithm;
  * Radiation transport solver on dynamical spacetimes based on the [M1 formulation](https://arxiv.org/abs/2111.14858);
  * Support for various equations of state, including tabular microphysical models;
  * Adaptive mesh refinement algorithms for black hole evolutions in the puncture framework;
