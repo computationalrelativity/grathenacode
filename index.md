@@ -43,5 +43,5 @@ For reporting potential performance or correctness bugs in the code and algorith
 
 ## Funding
 
-The development of GR-Athena++ was supported by the EU H2020 under ERC Starting Grant, no.~BinGraSp-714626 (PI Bernuzzi), the EU Horizon under ERC Consolidator Grant, no. InspiReM-101043372 (PI Bernuzzi), ...
+The development of GR-Athena++ was supported by the EU H2020 under ERC Starting Grant, no.~BinGraSp-714626 (PI Bernuzzi), the EU Horizon under ERC Consolidator Grant, no. InspiReM-101043372 (PI Bernuzzi), NASA through under 80NSSC21K1720 (PI Radice), the US Department of Energy under grant DE-SC0021177 (PI Radice), and the National Science Foundation under the grants PHY-2116686 (PI Stiner) and AST-2108467 (PI Radice).
 
