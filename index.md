@@ -44,7 +44,7 @@ For reporting potential performance or correctness bugs in the code and algorith
 The development of GR-Athena++ was supported by the EU H2020 under ERC Starting Grant, no.~BinGraSp-714626 (PI Bernuzzi), the EU Horizon under ERC Consolidator Grant, no. InspiReM-101043372 (PI Bernuzzi), ...
 
 
-![grathena](https://github.com/computationalrelativity/grathena/blob/main/assets/images/2311.04989.png)
+![grathena](./assets/images/2311.04989.png)
 
 
 
