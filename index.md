@@ -19,7 +19,7 @@ layout: default
  * Gravitational-wave extraction and output for Cauchy Characteristic evolution;
  * Apparent horizon finder based on [fast flow algorithm](https://arxiv.org/abs/gr-qc/9707050).
 
-GR-Athena++ is developed by the Computational Relativity (CoRe) collaboration at Jena (Germany) and Penn State (USA).
+GR-Athena++ is developed by the [Computational Relativity (CoRe)](http://www.computational-relativity.org) collaboration at Jena (Germany) and Penn State (USA).
 
 ## Open source
 
