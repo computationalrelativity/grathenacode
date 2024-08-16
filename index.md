@@ -4,7 +4,7 @@ layout: default
 
 **UNDER CONSTRUCTION**
 
-![grathena](./assets/images/2311.04989.png)
+![grathena](./assets/images/2311.04989_alphabckgrd.png)
 
 ## About
 
