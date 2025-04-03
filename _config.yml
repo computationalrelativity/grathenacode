@@ -1,5 +1,5 @@
 title: GR-Athena++
-description: General-relativistic adaptive mesh refinement code
+description: Block-based adaptive mesh refinement code for 3+1 numerical relativity
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
