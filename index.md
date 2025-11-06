@@ -15,9 +15,9 @@ layout: default
  * Radiation transport solver on dynamical spacetimes based on the [M1 formulation](https://arxiv.org/abs/2111.14858)
  * Support for various equations of state, including tabular microphysical models
  * [Deleptonization scheme](https://arxiv.org/abs/astro-ph/0504072) for stellar core collapse
- * Gravitational-wave extraction algorithms based on Newmann-Penrose-Weyl and Regge-Wheeler-Zerilli approaches, output for Cauchy Characteristic evolution
+ * Gravitational-wave extraction algorithms based on Newmann-Penrose-Weyl and [Regge-Wheeler-Zerilli](https://arxiv.org/abs/2508.03799) approaches, output for Cauchy Characteristic evolution
  * Apparent horizon finder based on [fast flow algorithm](https://arxiv.org/abs/gr-qc/9707050)
- * Support for various initial data solvers and readers, including [Lorene](https://github.com/computationalrelativity/lorene), [SGRID](https://github.com/sgridsource) and [RNS](https://github.com/computationalrelativity/RNSC), [TwoPunctures](https://github.com/computationalrelativity/TwoPuncturesC)
+ * Support for various initial data solvers and readers, including [Lorene](https://github.com/computationalrelativity/lorene), [SGRID](https://github.com/sgridsource), [RNS](https://github.com/computationalrelativity/RNSC), [TwoPunctures](https://github.com/computationalrelativity/TwoPuncturesC)
  
 GR-Athena++ is developed by the [Computational Relativity (CoRe)](http://www.computational-relativity.org) collaboration at Jena (Germany) and Penn State (USA).
 
@@ -38,8 +38,8 @@ For reporting potential performance or correctness bugs in the code and algorith
 ## Method papers
 
  * [GR-Athena++: Puncture Evolutions on Vertex-centered Oct-tree Adaptive Mesh Refinement](https://arxiv.org/abs/2101.08289) Daszuta B., Zappa F., Cook W., Radice D., Bernuzzi S., and Morozova V. Astrophys.J.Supp. 257 (2021) 2, 25 [(bib)](https://ui.adsabs.harvard.edu/abs/2021ApJS..257...25D/exportcitation)
- * [GR-Athena++: General-relativistic magnetohydrodynamics simulations of neutron star spacetimes](https://arxiv.org/abs/2311.04989) Cook W., Daszuta B., Fields J., Hammond P., Albanesi S., Zappa F., Bernuzzi S., and Radice D. Astrophys.J.Supp. 227 (2025) 1, 3 [(bib)](https://ui.adsabs.harvard.edu/abs/2023arXiv231104989C/exportcitation)
- * [Numerical relativity simulations of compact binaries: comparison of cell- and vertex-centered adaptive meshes](https://arxiv.org/abs/2406.09139) Daszuta B., Cook W., Hammond P., Fields J., Gutiérrez E.M., Bernuzzi S., Radice D. Physical Review D, XXX [(bib)](https://ui.adsabs.harvard.edu/abs/2024arXiv240609139D/exportcitation)
+ * [GR-Athena++: General-relativistic magnetohydrodynamics simulations of neutron star spacetimes](https://arxiv.org/abs/2311.04989) Cook W., Daszuta B., Fields J., Hammond P., Albanesi S., Zappa F., Bernuzzi S., and Radice D. Astrophys.J.Supp. 227 (2025) 1, 3 [(bib)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....3C/exportcitation)
+ * [Numerical relativity simulations of compact binaries: comparison of cell- and vertex-centered adaptive meshes](https://arxiv.org/abs/2406.09139) Daszuta B., Cook W., Hammond P., Fields J., Gutiérrez E.M., Bernuzzi S., Radice D. Physical Review D, 112 (2015) 10, 103006 [(bib)](https://ui.adsabs.harvard.edu/abs/2024arXiv240609139D/exportcitation)
 
 ## Funding
 
