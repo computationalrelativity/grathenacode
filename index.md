@@ -12,7 +12,7 @@ layout: default
  * Dynamical spacetime solver based on the [Z4c](https://arxiv.org/abs/0912.2920) formulation of 3+1 general relativity and high-order operators
  * Adaptive mesh refinement algorithms for black hole evolutions in the puncture framework
  * GRMHD solver on dynamical spacetimes based on the conservative 3+1 Eulerian "Valencia" formulation and Athena++ constrained transport algorithm
- * Radiation transport solver on dynamical spacetimes based on the [M1 formulation](https://arxiv.org/abs/2111.14858)
+ * Radiation transport solver on dynamical spacetimes based on the [M1 formulation](https://arxiv.org/abs/2602.18290)
  * Support for various equations of state, including tabular microphysical models
  * [Deleptonization scheme](https://arxiv.org/abs/astro-ph/0504072) for stellar core collapse
  * Gravitational-wave extraction algorithms based on Newmann-Penrose-Weyl and [Regge-Wheeler-Zerilli](https://arxiv.org/abs/2508.03799) approaches, output for Cauchy Characteristic evolution
@@ -40,6 +40,7 @@ For reporting potential performance or correctness bugs in the code and algorith
  * [GR-Athena++: Puncture Evolutions on Vertex-centered Oct-tree Adaptive Mesh Refinement](https://arxiv.org/abs/2101.08289) Daszuta B., Zappa F., Cook W., Radice D., Bernuzzi S., and Morozova V. Astrophys.J.Supp. 257 (2021) 2, 25 [(bib)](https://ui.adsabs.harvard.edu/abs/2021ApJS..257...25D/exportcitation)
  * [GR-Athena++: General-relativistic magnetohydrodynamics simulations of neutron star spacetimes](https://arxiv.org/abs/2311.04989) Cook W., Daszuta B., Fields J., Hammond P., Albanesi S., Zappa F., Bernuzzi S., and Radice D. Astrophys.J.Supp. 227 (2025) 1, 3 [(bib)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....3C/exportcitation)
  * [Numerical relativity simulations of compact binaries: comparison of cell- and vertex-centered adaptive meshes](https://arxiv.org/abs/2406.09139) Daszuta B., Cook W., Hammond P., Fields J., Gutiérrez E.M., Bernuzzi S., Radice D. Physical Review D, 112 (2015) 10, 103006 [(bib)](https://ui.adsabs.harvard.edu/abs/2024arXiv240609139D/exportcitation)
+ * [GR-Athena++: Binary Neutron Star Merger Simulations with Neutrino Transport](https://arxiv.org/abs/2602.18290) Daszuta B., and Bernuzzi S., Jacobi M., Gutierrez E., Hammond P., Cook W., and Radice D., arXiv:2602.18290 [(bib)](https://ui.adsabs.harvard.edu/abs/2026arXiv260218290D/exportcitation)
 
 ## Funding
 
